@@ -22,8 +22,7 @@ This project is an innovative application that automatically captures selfies wh
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/automatic-selfie-capture.git
-    cd automatic-selfie-capture
+    git clone https://github.com/yourusername/Automatic_Smile_Detection_And_Selfie_Capturing_System.git
     ```
 
 2. **Install the required dependencies:**
@@ -35,7 +34,7 @@ This project is an innovative application that automatically captures selfies wh
 
 1. **Run the script:**
     ```bash
-    python selfie_capture.py
+    python smile_selfie.py
     ```
 
 2. **Operation:**
